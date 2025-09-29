@@ -1,0 +1,32 @@
+{
+  "name": "file-crypt-cli",
+  "version": "0.0.2",
+  "description": "仅需一个命令，即可对你的文件进行加密或解密",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "fcrypt": "./index.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "file",
+    "file-crypt",
+    "cli",
+    "crypto",
+    "encrypto",
+    "decrypto"
+  ],
+  "author": "Cheng Yanqi <chengyanqi1999@gmail.com>",
+  "license": "MIT",
+  "packageManager": "pnpm@10.12.1",
+  "dependencies": {
+    "commander": "14.0.1",
+    "progress": "2.0.3"
+  }
+}
