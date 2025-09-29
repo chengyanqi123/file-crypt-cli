@@ -1,6 +1,6 @@
 {
   "name": "file-crypt-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "仅需一个命令，即可对你的文件进行加密或解密",
   "main": "index.js",
   "type": "module",
